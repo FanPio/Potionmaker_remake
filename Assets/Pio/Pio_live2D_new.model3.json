@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Pio_live2D_new.moc3",
+		"Textures": [
+			"Pio_live2D_new.1024/texture_00.png"
+		],
+		"Physics": "Pio_live2D_new.physics3.json",
+		"DisplayInfo": "Pio_live2D_new.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
