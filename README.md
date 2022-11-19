@@ -10,31 +10,10 @@ Just for Academic purposes.
 2020.3.23f1 up
 
 ## How
-在新的2D遊戲專案中的資料夾<br>
-In the directory of the new 2D game project<br>
-刪除Assets and ProjectSettings<br>
-Delete Assets and ProjectSettings<br>
-開啟cmd或是powershell<br>
-Open cmd or powershell<br>
-輸入<br>
-inter
-```
-git init
-```
-
-```
-git remote add origin "https://github.com/FanPio/Potionmaker_remake.git"
-```
-
-```
-git pull origin master
-```
-
-然後打開此Project<br>
-And then open the Project<br>
-開啟file->Build Settings<br>
-Click file->Build Settings<br>
-選Ios或Android作業系統<br>
-Selcet Ios or Android platform
+Create a new 2D Game project<br>
+Download this, put and overrride Assets and ProjectSettings<br>
+Then open the project
+Click file->Build Settings
+Change platform to ios or android.
 
 ###### tags: `github`
