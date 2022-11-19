@@ -12,8 +12,8 @@ Just for Academic purposes.
 ## How
 在新的2D遊戲專案中的資料夾<br>
 In the directory of the new 2D game project<br>
-刪除Assets and ProjectSettings
-Delete Assets and ProjectSettings
+刪除Assets and ProjectSettings<br>
+Delete Assets and ProjectSettings<br>
 開啟cmd或是powershell<br>
 Open cmd or powershell<br>
 輸入<br>
@@ -33,6 +33,7 @@ git pull origin master
 然後打開此Project<br>
 And then open the Project<br>
 開啟file->Build Settings<br>
+Click file->Build Settings<br>
 選Ios或Android作業系統<br>
 Selcet Ios or Android platform
 
