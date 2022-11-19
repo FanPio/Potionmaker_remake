@@ -30,10 +30,10 @@ git remote add origin "https://github.com/FanPio/Potionmaker_remake.git"
 git pull origin master
 ```
 
-然後打開此Project
-And then open the Project
-開啟file->Build Settings
-選Ios或Android作業系統
+然後打開此Project<br>
+And then open the Project<br>
+開啟file->Build Settings<br>
+選Ios或Android作業系統<br>
 Selcet Ios or Android platform
 
 ###### tags: `github`
